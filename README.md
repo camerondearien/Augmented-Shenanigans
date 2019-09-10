@@ -1,2 +1,2 @@
 # Augmented-Shenanigans
-Senior Capstone Project repo
+Senior Capstone Project repo (now with webhooks)
