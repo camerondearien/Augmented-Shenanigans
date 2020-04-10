@@ -1,7 +1,8 @@
 Android
 PlayerPath?
-C:/Users/Cameron/Documents/University of Idaho/capstone/Augmented Shenanigans/a_test_of_some_sorts.apk
+C:/Users/Cameron/Documents/University of Idaho/capstone/Augmented Shenanigans/UofI_AR.apk
 SceneListBegin?
+Assets/Scenes/frontMenu.unity
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f VuforiaScripts.dll:.BoundingBoxRenderer
@@ -292,3 +293,4 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+d91fcd9ac7bd86d3d771dd6171620fad Assembly-CSharp.dll:.scene_swapper
