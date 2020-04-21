@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="terry_name_plate" size="0.300000 0.168750" />
-    <ImageTarget name="dell_logo_test" size="0.050000 0.046073" />
-    <ImageTarget name="sample_target" size="0.300000 0.168750" />
-  </Tracking>
-</QCARConfig>
